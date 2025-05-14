@@ -1,0 +1,1 @@
+export const mergeCarts = (a, b) => [...a, ...b];
